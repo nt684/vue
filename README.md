@@ -1,3 +1,5 @@
+Example to make merge conflict
+
 Hi There. this is the first.
 
 added a quicktest
