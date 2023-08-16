@@ -1,4 +1,6 @@
 second third fourth
+Example to make merge conflict
+
 
 Hi There. this is the first.
 
